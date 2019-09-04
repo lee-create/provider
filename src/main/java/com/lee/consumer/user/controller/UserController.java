@@ -15,7 +15,7 @@ public class UserController {
         List<User> listUser = new ArrayList<>();
         listUser.add(new User(1,"jay",30));
         listUser.add(new User(2,"Lin",34));
-        listUser.add(new User(3,"Ling",36));
+        listUser.add(new User(4,"Ling",36));
         return listUser;
     }
 }
